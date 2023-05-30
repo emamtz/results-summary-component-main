@@ -26,26 +26,25 @@ body {
     box-shadow: 10px 10px 10px 10px;
 }
 .marco1 {
+    position: relative;
     border-radius: 20px;
     height: 500px;
     width: 400px;
-    background: coral;
+    background: hsl(252, 100%, 67%);
+    background: hsl(241, 81%, 54%);
     box-shadow: 2px 2px 2px 2px;
 }
 .text1 {
+    padding: 30px 10px 0px 122px;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
-    font-size: 20px;
-    cursor: pointer;
-    padding: 44px 0px 20px 0px;
+    font-size: 30px;
     color: #0d0f18;
-    width: 247px;
 }
 .text2 {
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
     font-size: 20px;
-    cursor: pointer;
     padding: 44px 0px 20px 0px;
     color: #0d0f18;
     width: 247px;
@@ -54,7 +53,6 @@ body {
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
     font-size: 20px;
-    cursor: pointer;
     padding: 44px 0px 20px 0px;
     color: #0d0f18;
     width: 247px;
@@ -63,18 +61,63 @@ body {
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
     font-size: 20px;
-    cursor: pointer;
     padding: 44px 0px 20px 0px;
     color: #0d0f18;
     width: 247px;
 }
 .text5 {
+    margin-top: -500px;
+    padding: 10px 0px 0px 410px;
+    text-align: center;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #0d0f18;
+    width: 247px;
+}
+.text6 {
+    padding: 10px 0px 0px 410px;
+    text-align: center;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #0d0f18;
+    width: 247px;
+}
+.text7 {
+    padding: 10px 0px 0px 410px;
+    text-align: center;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #0d0f18;
+    width: 247px;
+}
+.text8 {
+    padding: 10px 0px 0px 410px;
+    text-align: center;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #0d0f18;
+    width: 247px;
+}
+.text9 {
+    padding: 10px 0px 0px 410px;
+    text-align: center;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #0d0f18;
+    width: 247px;
+}
+.text10 {
+    padding: 10px 0px 0px 410px;
     text-align: center;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
     font-size: 30px;
     cursor: pointer;
-    padding: 44px 0px 20px 0px;
     color: #0d0f18;
     width: 247px;
 }
