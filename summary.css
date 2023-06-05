@@ -74,48 +74,61 @@ body {
     padding: 10px 0px 0px 440px;
     text-align: left;
     font-family: "Hanken Grotesk", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 30px;
     color: hsl(224, 30%, 27%);
 }
 .text7 {
-    padding: 10px 10px 10px 410px;
-    text-align: center;
+    padding: 40px 10px 10px 440px;
+    text-align: left;
     font-family: "Hanken Grotesk", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 25px;
     color: #0d0f18;
 }
 .text8 {
-    padding: 10px 0px 0px 410px;
-    text-align: center;
+    padding: 20px 0px 0px 440px;
+    text-align: left;
     font-family: "Hanken Grotesk", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 25px;
     color: #0d0f18;
 }
 .text9 {
-    padding: 10px 0px 0px 410px;
+    padding: 20px 10px 10px 440px;
+    text-align: left;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: #0d0f18;
+}
+.text10 {
+    padding: 20px 10px 10px 440px;
+    text-align: left;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: #0d0f18;
+}
+.text11 {
+    padding: 50px 0px 0px 410px;
     text-align: center;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 600;
     font-size: 25px;
     color: #0d0f18;
 }
-.text10 {
-    padding: 10px 0px 0px 410px;
+.button {
+    border: 0;
+    line-height: 3;
+    padding: 0 125px;
+    font-size: 1rem;
     text-align: center;
-    font-family: "Hanken Grotesk", sans-serif;
-    font-weight: 600;
-    font-size: 30px;
-    color: #0d0f18;
-}
-.text11 {
-    padding: 10px 0px 0px 410px;
-    text-align: center;
-    font-family: "Hanken Grotesk", sans-serif;
-    font-weight: 600;
-    font-size: 30px;
+    color: white;
+    border-radius: 30px;
+    background: hsla(256, 72%, 46%, 1);
     cursor: pointer;
-    color: #0d0f18;
+}
+.button:hover {
+    background: #303b59;
 }
