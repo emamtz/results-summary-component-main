@@ -13,15 +13,15 @@ font-family: "Lexend Deca", sans-serif;
 body {
     background: white;
     margin: 5px;
-    height: 100vh;
-    width: 100%;
+    height: 98vh;
+    width: 99%;
     display: grid;
     place-items: center;
 }
 .container {
     border-radius: 20px;
     height: 500px;
-    width: 800px;
+    width: 700px;
     background: #ffffff;
     box-shadow: hsl(221, 100%, 96%) 10px 15px 30px 0px;
 }
@@ -29,26 +29,35 @@ body {
     position: relative;
     border-radius: 20px;
     height: 500px;
-    width: 400px;
+    width: 350px;
     background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 .text1 {
-    padding: 35px 10px 0px 140px;
+    padding: 35px 10px 0px 115px;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 500;
     font-size: 25px;
     color: hsl(241, 100%, 89%);
 }
 .text2 {
-    padding: 50px 10px 0px 160px;
+    padding: 35px 10px 0px 144px;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 800;
     font-size: 70px;
     color: hsl(221, 100%, 96%);
 }
+.circle {
+    margin-left: 90px;
+    float: left;
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-top: -95px;
+}
 .text3 {
-    padding: 30px 10px 0px 171px;
-    margin-top: -40px;
+    padding: 0px 127px 0px 153px;
+    margin-top: -26px;
     font-family: "Hanken Grotesk", sans-serif;
     font-weight: 800;
     font-size: 20px;
@@ -126,7 +135,7 @@ body {
     text-align: center;
     color: white;
     border-radius: 30px;
-    background: hsla(256, 72%, 46%, 1);
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     cursor: pointer;
 }
 .button:hover {
