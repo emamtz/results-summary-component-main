@@ -119,6 +119,9 @@ body {
     margin: 0px 0px -3px 0px;
     padding: 0px 10px 0px 0px;
 }
+.color2 {
+    color: black;
+}
 .squareMemory {
     margin-left: 390px;
     background: #fffbf2;
@@ -170,6 +173,9 @@ body {
 .text11 {
     padding: 0px 0px 0px 410px;
     text-align: center;
+}
+.number100 {
+    color: #919ba1;
 }
 .button {
     margin-top: 35px;
@@ -283,7 +289,7 @@ body {
         margin-left: 35px;
         background: #fff6f5;
         border-radius: 10px;
-        width: 310px;
+        width: 300px;
         height: 50px;
         margin-top: -50px;
     }
@@ -303,7 +309,7 @@ body {
         margin-left: 35px;
         background: #fffbf2;
         border-radius: 10px;
-        width: 310px;
+        width: 300px;
         height: 50px;
         margin-top: -40px;
     }
@@ -323,7 +329,7 @@ body {
         margin-left: 35px;
         background: #f2fbfa;
         border-radius: 10px;
-        width: 310px;
+        width: 300px;
         height: 50px;
         margin-top: -50px;
     }
@@ -343,7 +349,7 @@ body {
         margin-left: 35px;
         background: #f3f3fd;
         border-radius: 10px;
-        width: 310px;
+        width: 300px;
         height: 50px;
         margin-top: -50px;
     }
